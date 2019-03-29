@@ -1,2 +1,5 @@
+# for hiding node_module #
 node_modules/
+
+# Output folder for sass and pug #
 bundle/
